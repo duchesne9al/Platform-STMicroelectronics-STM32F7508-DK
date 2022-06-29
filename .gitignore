@@ -22,3 +22,6 @@ stm32f7508_freertos-configuration/dropins/workbenchExtension_launchScriptFramewo
 
 # Ignore STM32CubeIDE generated files
 stm32f7508_freertos-bsp/projects/microej/cdt_workspace/.metadata/
+
+*.out
+*.hex

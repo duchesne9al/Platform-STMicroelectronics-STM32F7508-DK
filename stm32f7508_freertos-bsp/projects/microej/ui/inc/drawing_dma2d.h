@@ -37,7 +37,7 @@
 /* Includes ------------------------------------------------------------------*/
 
 #include <stdint.h>
-#include "LLUI_DISPLAY_IMPL.h"
+#include "LLUI_DISPLAY_impl.h"
 
 #ifdef STM32F4XX
 #include "stm32f4xx_hal.h"
